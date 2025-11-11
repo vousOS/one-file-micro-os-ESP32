@@ -10,3 +10,16 @@ screen: для підключення до esp32
 
 команда для запуску: import microos
                         microos.main()
+
+us: you need to install mpmote and screen
+
+mpremote: to upload a file to esp32
+
+screen: to connect to esp32
+
+command to load esp32 into memory: mpremote connect "port to which esp32 is connected" fs cp mysimos.py :
+
+command to check if the file is loaded into memory: mpremote connect "port the esp32 is connected to" fs ls :
+
+command to execute: import microos microos.main()
+
