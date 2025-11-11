@@ -10,7 +10,9 @@ screen: для підключення до esp32
 
 команда для запуску: import microos а потім microos.main()
 
-ua: you need to install mpremote and screen 
+![Опис зображення](excemple.pns)
+
+us: you need to install mpremote and screen 
 
 mpremote: to upload a file to esp32 
 
