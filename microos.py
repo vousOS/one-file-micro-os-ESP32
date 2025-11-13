@@ -51,7 +51,7 @@ def jukebox_menu():
         print("❌ Невірний вибір!")
 
 def main():
-    print("MicroOS v0.1")
+    print("MicroOS v1.1")
     print("Введіть 'help' щоб побачити команди.\n")
 
     while True:
